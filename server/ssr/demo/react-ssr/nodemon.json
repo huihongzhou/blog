@@ -1,0 +1,5 @@
+{
+  "exec": "yarn build && yarn serve",
+  "ext": "ts, tsx",
+  "delay": "500"
+}
